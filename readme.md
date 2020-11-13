@@ -1,11 +1,11 @@
 # Helper for sms based 2 factor authentication on fortigates
-Besides having configuring
+Besides configuring;
 
 - an ldap server
 - a mail server for system
 - an sms provider
 
-you'll also need to enable 2 factor with ldap on fortigates you need to ;
+To enable 2 factor with ldap on fortigates you need to ;
 
 
 - create a group that identifies that the user is a 2fa user
